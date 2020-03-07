@@ -1,0 +1,14 @@
+{
+    "name": "evaisse/code-igniter-2000",
+    "description": "An full compatability version for Code Igniter 2.2.6 with a update PHP core",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Emmanuel VAISSE",
+            "email": "evaisse@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
